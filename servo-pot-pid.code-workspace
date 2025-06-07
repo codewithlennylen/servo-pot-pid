@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "servo-pid-project",
+			"path": "servo-pid-project"
+		}
+	],
+	"settings": {}
+}
